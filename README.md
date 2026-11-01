@@ -188,6 +188,8 @@ This automatically runs all 6 steps in sequence:
 
 ---
 
+### [Link to the Prompt History Log, AI Usage, Reviewer Guide](https://drive.google.com/file/d/1Z-hBxamMWKmj7ai7SFNCa9jxR2SznmPH/view?usp=sharing)
+
 ### 4. Run Test Suite
 ```powershell
 python -m pytest tests/ -v
