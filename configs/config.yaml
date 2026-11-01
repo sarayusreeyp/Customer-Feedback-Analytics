@@ -1,0 +1,54 @@
+seed: 20261022
+scale: starter          # starter | full
+
+# ── Volume presets ────────────────────────────────────────────────────────────
+volumes:
+  starter:
+    customers: 500
+    surveys: 5
+    reviews: 2500
+    survey_responses: 2500
+    support_tickets: 200
+    support_messages: 2000
+    anomalies_per_type: 500   # per entity type (reviews / responses / messages)
+  full:
+    customers: 5000
+    surveys: 50
+    reviews: 25000
+    survey_responses: 25000
+    support_tickets: 2000
+    support_messages: 20000
+    anomalies_per_type: 5000
+
+# ── Generation knobs ─────────────────────────────────────────────────────────
+generation:
+  multilingual_ratio: 0.05    # fraction of records in es / fr / de
+  ambiguous_ratio: 0.03       # fraction flagged is_ambiguous=True (sarcasm etc.)
+  sentiment_distribution:
+    positive: 0.34
+    neutral: 0.33
+    negative: 0.33
+  max_secondary_themes: 2     # each record gets 1 primary + 0..2 secondary themes
+
+# ── Action-item creation threshold ────────────────────────────────────────────
+action_items:
+  threshold_starter: 50       # create action item when theme_mentions >= this (starter)
+  threshold_full: 500         # same for full scale
+
+# ── Processing (Module 4) ─────────────────────────────────────────────────────
+processing:
+  batch_size: 32
+  sentiment_model: distilbert-base-uncased-finetuned-sst-2-english
+  theme_mode: keyword         # keyword | zero-shot
+  zero_shot_model: facebook/bart-large-mnli
+
+# ── Paths (relative to project root) ─────────────────────────────────────────
+paths:
+  raw_dir: data/raw
+  validated_dir: data/validated
+  excluded_dir: data/excluded_anomalies
+  evaluation_dir: data/evaluation
+  ground_truth_dir: data/ground_truth
+  db_file: data/db/feedback.db
+  reports_dir: reports
+  outcomes_dir: final_outcomes

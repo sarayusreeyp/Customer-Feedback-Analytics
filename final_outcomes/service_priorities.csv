@@ -1,0 +1,16 @@
+priority_rank,theme_id,theme_name,total_mentions,negative_mentions,negative_ratio,priority_score,recommended_urgency
+1,THEME-000001,Product Quality,1365,309,0.2264,168.37,Critical
+2,THEME-000004,Delivery & Shipping,1154,265,0.2296,144.99,Critical
+3,THEME-000002,Customer Service,1343,263,0.1958,132.65,Critical
+4,THEME-000005,Website & App UX,1055,223,0.2114,118.03,High
+5,THEME-000008,Technical Support,950,198,0.2084,103.21,High
+6,THEME-000003,Pricing & Value,1186,213,0.1796,102.73,High
+7,THEME-000013,Performance & Reliability,815,177,0.2172,92.81,High
+8,THEME-000011,Packaging,762,164,0.2152,87.79,Medium
+9,THEME-000006,Return & Refund Policy,922,166,0.18,80.97,Medium
+10,THEME-000009,Account & Billing,791,146,0.1846,72.08,Medium
+11,THEME-000012,Installation & Setup,750,141,0.188,69.76,Medium
+12,THEME-000015,Onboarding Experience,575,121,0.2104,64.09,Medium
+13,THEME-000007,Product Availability,936,141,0.1506,62.8,Low
+14,THEME-000010,Communication & Updates,785,116,0.1478,51.07,Low
+15,THEME-000014,Feature Requests,714,105,0.1471,46.12,Low

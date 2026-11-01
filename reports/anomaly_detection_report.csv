@@ -1,0 +1,7 @@
+issue_type,total_injected,total_quarantined,detection_recall
+duplicate_response,300,300,1.0
+label_contradiction,300,300,1.0
+out_of_taxonomy_theme,300,300,1.0
+pii_leak,300,300,1.0
+test_label_in_input,300,300,1.0
+OVERALL,1500,1500,1.0

@@ -1,0 +1,41 @@
+{
+  "timestamp": "2026-11-01T16:42:07.107051",
+  "database": "C:\\Users\\pc\\OneDrive\\Desktop\\Customer-Feedback-Analytics\\data\\db\\feedback.db",
+  "seed": 99999,
+  "checks": {
+    "pk_uniqueness": {
+      "status": "PASS",
+      "violations": 0
+    },
+    "fk_integrity": {
+      "status": "PASS",
+      "violations": 0
+    },
+    "enum_and_patterns": {
+      "status": "PASS",
+      "violations": 0
+    },
+    "derived_rules_and_arithmetic": {
+      "status": "PASS",
+      "violations": 0
+    },
+    "date_ordering": {
+      "status": "PASS",
+      "violations": 0
+    },
+    "lifecycle_transitions": {
+      "status": "PASS",
+      "violations": 0
+    },
+    "database_duplicates": {
+      "status": "PASS",
+      "violations": 0
+    },
+    "reproducibility": {
+      "status": "PASS",
+      "seed": 99999,
+      "tables_verified": 13
+    }
+  },
+  "overall_status": "PASS"
+}

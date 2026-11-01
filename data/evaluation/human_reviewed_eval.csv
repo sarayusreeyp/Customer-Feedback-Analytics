@@ -1,0 +1,301 @@
+sample_id,source_record_id,entity_type,text,language,is_ambiguous,ground_truth_sentiment,ground_truth_theme_id,review_status,verified_by,confidence
+EVAL-00001,REV-2026-001074,review,Ordered the Fitness Tracker Band only to be told it was out of stock after payment. Very misleading.,en,False,negative,THEME-000007,human_verified,expert_evaluator,1.0
+EVAL-00002,REV-2026-000820,review,Fast and reliable shipping. My Air Purifier Slim arrived two days ahead of schedule.,en,False,positive,THEME-000004,human_verified,expert_evaluator,1.0
+EVAL-00003,REV-2026-002400,review,The packaging is adequate for its purpose. A bit wasteful but the product arrived safely.,en,False,neutral,THEME-000011,human_verified,expert_evaluator,1.0
+EVAL-00004,REV-2026-000119,review,Outstanding durability. My Mechanical Keyboard TKL has held up perfectly after 2 months of daily use.,en,False,positive,THEME-000001,human_verified,expert_evaluator,1.0
+EVAL-00005,REV-2026-000501,review,Setup was fine in the end but the initial configuration was a bit confusing.,en,False,neutral,THEME-000012,human_verified,expert_evaluator,1.0
+EVAL-00006,REV-2026-000240,review,Packaging is sturdy and well-designed. The Smart Doorbell Camera arrived in perfect condition.,en,False,positive,THEME-000011,human_verified,expert_evaluator,1.0
+EVAL-00007,REV-2026-002390,review,Pricing is fair and the quality matches it. I feel good about my purchase of the Air Purifier Slim.,en,False,positive,THEME-000003,human_verified,expert_evaluator,1.0
+EVAL-00008,REV-2026-000178,review,"Best technical support I have experienced. Patient, skilled, and thorough.",en,False,positive,THEME-000008,human_verified,expert_evaluator,1.0
+EVAL-00009,REV-2026-000574,review,Do not buy if you want something that lasts. The Bluetooth Speaker Max fell apart within 1 weeks.,en,False,negative,THEME-000001,human_verified,expert_evaluator,1.0
+EVAL-00010,REV-2026-000550,review,"Average app experience. Some features are intuitive, others take time to figure out.",en,False,neutral,THEME-000005,human_verified,expert_evaluator,1.0
+EVAL-00011,REV-2026-001563,review,The Noise-Cancelling Headphones is built exceptionally well. Solid materials and a great finish throughout.,en,False,positive,THEME-000001,human_verified,expert_evaluator,1.0
+EVAL-00012,REV-2026-001751,review,"Best technical support I have experienced. Patient, skilled, and thorough.",en,False,positive,THEME-000008,human_verified,expert_evaluator,1.0
+EVAL-00013,REV-2026-001908,review,Very user-friendly platform. I appreciate how easy it is to find support for the Smart LED Bulb Pack.,en,False,positive,THEME-000005,human_verified,expert_evaluator,1.0
+EVAL-00014,REV-2026-001577,review,Fast and reliable shipping. My Bluetooth Speaker Max arrived two days ahead of schedule.,en,False,positive,THEME-000004,human_verified,expert_evaluator,1.0
+EVAL-00015,REV-2026-001001,review,Impressed by the quality of the Electric Toothbrush Elite. It feels premium and very well-constructed.,en,False,positive,THEME-000001,human_verified,expert_evaluator,1.0
+EVAL-00016,REV-2026-001224,review,"Mixed experience with the website. Some pages are great, others feel clunky.",en,False,neutral,THEME-000005,human_verified,expert_evaluator,1.0
+EVAL-00017,REV-2026-000712,review,Support was average. Took a while but they did get back to me with a solution.,en,False,neutral,THEME-000002,human_verified,expert_evaluator,1.0
+EVAL-00018,REV-2026-001198,review,No response to my emails for over a week. The lack of communication is unprofessional.,en,False,negative,THEME-000010,human_verified,expert_evaluator,1.0
+EVAL-00019,REV-2026-000620,review,"Average app experience. Some features are intuitive, others take time to figure out.",en,False,neutral,THEME-000005,human_verified,expert_evaluator,1.0
+EVAL-00020,REV-2026-000370,review,The Webcam 4K Auto-Focus is built exceptionally well. Solid materials and a great finish throughout.,en,False,positive,THEME-000001,human_verified,expert_evaluator,1.0
+EVAL-00021,REV-2026-002192,review,Nightmare return process. I have been waiting six weeks for my refund with no resolution.,en,False,negative,THEME-000006,human_verified,expert_evaluator,1.0
+EVAL-00022,REV-2026-000449,review,Way too much plastic packaging for such a small product. Very environmentally unfriendly.,en,False,negative,THEME-000011,human_verified,expert_evaluator,1.0
+EVAL-00023,REV-2026-000131,review,Excellent logistics. The Electric Toothbrush Elite was delivered on time and in perfect condition.,en,False,positive,THEME-000004,human_verified,expert_evaluator,1.0
+EVAL-00024,REV-2026-002487,review,Very disappointed with the build quality of the Electric Toothbrush Elite. It feels flimsy and cheap.,en,False,negative,THEME-000001,human_verified,expert_evaluator,1.0
+EVAL-00025,REV-2026-000759,review,Got a full refund without any trouble. The returns team was professional and efficient.,en,False,positive,THEME-000006,human_verified,expert_evaluator,1.0
+EVAL-00026,REV-2026-001689,review,Constantly showing as available but taking weeks to ship. The stock status is inaccurate.,en,False,negative,THEME-000007,human_verified,expert_evaluator,1.0
+EVAL-00027,REV-2026-000391,review,Love the existing features of the Portable Charger 20K. Would be perfect with a dark mode option.,en,False,positive,THEME-000014,human_verified,expert_evaluator,1.0
+EVAL-00028,REV-2026-001709,review,The return process is intentionally complicated. I suspect they make it hard so people give up.,en,False,negative,THEME-000006,human_verified,expert_evaluator,1.0
+EVAL-00029,REV-2026-001122,review,Excellent logistics. The Mechanical Keyboard TKL was delivered on time and in perfect condition.,en,False,positive,THEME-000004,human_verified,expert_evaluator,1.0
+EVAL-00030,REV-2026-001107,review,The craftsmanship on this Smart LED Bulb Pack is top-notch. Every detail feels carefully made.,en,False,positive,THEME-000001,human_verified,expert_evaluator,1.0
+EVAL-00031,REV-2026-002462,review,So glad they sent a follow-up email to inform me that absolutely nothing has changed with my open ticket.,en,True,neutral,THEME-000001,human_verified,expert_evaluator,1.0
+EVAL-00032,REV-2026-001464,review,Standard returns experience. Nothing exceptional but it did get resolved.,en,False,neutral,THEME-000006,human_verified,expert_evaluator,1.0
+EVAL-00033,REV-2026-001786,review,"Mixed experience with availability. Some variants were in stock, others were not.",en,False,neutral,THEME-000007,human_verified,expert_evaluator,1.0
+EVAL-00034,REV-2026-000344,review,Delivery was okay. Took about a week which is average for this type of order.,en,False,neutral,THEME-000004,human_verified,expert_evaluator,1.0
+EVAL-00035,REV-2026-001880,review,The packaging was completely inadequate. The Bluetooth Speaker Max arrived damaged as a result.,en,False,negative,THEME-000011,human_verified,expert_evaluator,1.0
+EVAL-00036,REV-2026-000346,review,Service was neither great nor terrible. Problem was resolved but it took longer than expected.,en,False,neutral,THEME-000002,human_verified,expert_evaluator,1.0
+EVAL-00037,REV-2026-002414,review,The Bluetooth Speaker Max feels solid enough but nothing remarkable about the construction.,en,False,neutral,THEME-000001,human_verified,expert_evaluator,1.0
+EVAL-00038,REV-2026-002097,review,The tech support team was knowledgeable and resolved my Laptop Stand Pro issue on the first call.,en,False,positive,THEME-000008,human_verified,expert_evaluator,1.0
+EVAL-00039,REV-2026-000707,review,My tech issue was resolved but it took several contacts and a lot of patience.,en,False,neutral,THEME-000008,human_verified,expert_evaluator,1.0
+EVAL-00040,REV-2026-002317,review,Expérience moyenne. Le produit fonctionne bien mais la livraison a pris plus de temps que prévu.,fr,False,neutral,THEME-000013,human_verified,expert_evaluator,1.0
+EVAL-00041,REV-2026-002141,review,Stock levels are well managed. Never had trouble finding the SmartHome Hub when I needed it.,en,False,positive,THEME-000007,human_verified,expert_evaluator,1.0
+EVAL-00042,REV-2026-001135,review,"Standard communication experience. Not great, not bad. Just the basics.",en,False,neutral,THEME-000010,human_verified,expert_evaluator,1.0
+EVAL-00043,REV-2026-001585,review,The Smart Scale Wi-Fi came in beautifully designed packaging. Very premium unboxing experience.,en,False,positive,THEME-000011,human_verified,expert_evaluator,1.0
+EVAL-00044,REV-2026-001329,review,Terrible inventory management. I had to reorder three times before my Smart Doorbell Camera shipped.,en,False,negative,THEME-000007,human_verified,expert_evaluator,1.0
+EVAL-00045,REV-2026-000883,review,Adequate materials for the price. The USB-C Hub 7-in-1 is exactly what you would expect at this level.,en,False,neutral,THEME-000001,human_verified,expert_evaluator,1.0
+EVAL-00046,REV-2026-001394,review,The tech support team has no idea how their own product works. Very frustrating.,en,False,negative,THEME-000008,human_verified,expert_evaluator,1.0
+EVAL-00047,REV-2026-000047,review,Do not buy if you want something that lasts. The Bluetooth Speaker Max fell apart within 2 weeks.,en,False,negative,THEME-000001,human_verified,expert_evaluator,1.0
+EVAL-00048,REV-2026-000142,review,"Stock levels are inconsistent. Sometimes the Fitness Tracker Band is available, sometimes not.",en,False,neutral,THEME-000007,human_verified,expert_evaluator,1.0
+EVAL-00049,REV-2026-000918,review,"The mobile app is slow, buggy, and keeps logging me out. Needs a complete overhaul.",en,False,negative,THEME-000005,human_verified,expert_evaluator,1.0
+EVAL-00050,REV-2026-001304,review,Average returns experience. Had to fill out several forms but it worked out in the end.,en,False,neutral,THEME-000006,human_verified,expert_evaluator,1.0
+EVAL-00051,REV-2026-002284,review,Outstanding durability. My Smart LED Bulb Pack has held up perfectly after 6 months of daily use.,en,False,positive,THEME-000001,human_verified,expert_evaluator,1.0
+EVAL-00052,REV-2026-001539,review,Decent value. Cheaper alternatives exist but the SmartHome Hub is probably worth the extra cost.,en,False,neutral,THEME-000003,human_verified,expert_evaluator,1.0
+EVAL-00053,REV-2026-000248,review,"Stock levels are inconsistent. Sometimes the Noise-Cancelling Headphones is available, sometimes not.",en,False,neutral,THEME-000007,human_verified,expert_evaluator,1.0
+EVAL-00054,REV-2026-002334,review,The support team was rude and unhelpful. I am still waiting for a solution to my problem.,en,False,negative,THEME-000002,human_verified,expert_evaluator,1.0
+EVAL-00055,REV-2026-000963,review,Technical support was outstanding. They walked me through the setup step by step.,en,False,positive,THEME-000008,human_verified,expert_evaluator,1.0
+EVAL-00056,REV-2026-001160,review,Excellent account management tools. Easy to update payment methods and track spending.,en,False,positive,THEME-000009,human_verified,expert_evaluator,1.0
+EVAL-00057,REV-2026-001199,review,The app crashes constantly and is extremely frustrating to use.,en,False,negative,THEME-000005,human_verified,expert_evaluator,1.0
+EVAL-00058,REV-2026-001700,review,The Smartwatch Series 5 was listed as available but took longer to ship than expected.,en,False,neutral,THEME-000007,human_verified,expert_evaluator,1.0
+EVAL-00059,REV-2026-001842,review,Shipping was incredibly slow. I could have driven there faster than this took.,en,False,negative,THEME-000004,human_verified,expert_evaluator,1.0
+EVAL-00060,REV-2026-002459,review,Decent value. Cheaper alternatives exist but the Portable Charger 20K is probably worth the extra cost.,en,False,neutral,THEME-000003,human_verified,expert_evaluator,1.0
+EVAL-00061,REV-2026-000729,review,Average build quality for a Smart Home product. The SmartHome Hub is acceptable for the price.,en,False,neutral,THEME-000001,human_verified,expert_evaluator,1.0
+EVAL-00062,REV-2026-000088,review,"Exceptional return experience. Quick, easy, and completely stress-free.",en,False,positive,THEME-000006,human_verified,expert_evaluator,1.0
+EVAL-00063,REV-2026-002129,review,Great user experience on the website. Smooth checkout and easy product comparison.,en,False,positive,THEME-000005,human_verified,expert_evaluator,1.0
+EVAL-00064,REV-2026-000734,review,Technical support was useless. They just sent me a generic guide that did not help at all.,en,False,negative,THEME-000008,human_verified,expert_evaluator,1.0
+EVAL-00065,REV-2026-001337,review,Terrible inventory management. I had to reorder three times before my Robot Vacuum V2 shipped.,en,False,negative,THEME-000007,human_verified,expert_evaluator,1.0
+EVAL-00066,REV-2026-001702,review,The performance does not come close to what was advertised. Extremely slow and unreliable.,en,False,negative,THEME-000013,human_verified,expert_evaluator,1.0
+EVAL-00067,REV-2026-002246,review,Love the existing features of the Ergonomic Mouse. Would be perfect with a dark mode option.,en,False,positive,THEME-000014,human_verified,expert_evaluator,1.0
+EVAL-00068,REV-2026-000411,review,"Oh wow, yet another product that works exactly as advertised. The Webcam 4K Auto-Focus is absolutely fine I guess. Technically.",en,True,positive,THEME-000002,human_verified,expert_evaluator,1.0
+EVAL-00069,REV-2026-000333,review,The Bluetooth Speaker Max broke after just 9 weeks. The quality is far below what was advertised.,en,False,negative,THEME-000001,human_verified,expert_evaluator,1.0
+EVAL-00070,REV-2026-002013,review,Terrible construction. My Wireless Earbuds Pro arrived with visible defects right out of the box.,en,False,negative,THEME-000001,human_verified,expert_evaluator,1.0
+EVAL-00071,REV-2026-000511,review,Performance is okay but not exceptional. I expected more from a product at this price.,en,False,neutral,THEME-000013,human_verified,expert_evaluator,1.0
+EVAL-00072,REV-2026-000908,review,"The mobile app is slow, buggy, and keeps logging me out. Needs a complete overhaul.",en,False,negative,THEME-000005,human_verified,expert_evaluator,1.0
+EVAL-00073,REV-2026-000339,review,Never received any notification about the delay. Found out by tracking the package myself.,en,False,negative,THEME-000010,human_verified,expert_evaluator,1.0
+EVAL-00074,REV-2026-000404,review,They refused my return despite it being within the policy window. Absolutely unacceptable.,en,False,negative,THEME-000006,human_verified,expert_evaluator,1.0
+EVAL-00075,REV-2026-001692,review,Average build quality for a Computing product. The Webcam 4K Auto-Focus is acceptable for the price.,en,False,neutral,THEME-000001,human_verified,expert_evaluator,1.0
+EVAL-00076,REV-2026-000289,review,The customer service was so helpful that I ended up solving the problem entirely by myself. Five stars for effort.,en,True,negative,THEME-000002,human_verified,expert_evaluator,1.0
+EVAL-00077,REV-2026-001635,review,They charge too much and deliver too little. Definitely not worth the premium for the 4K Streaming Stick.,en,False,negative,THEME-000003,human_verified,expert_evaluator,1.0
+EVAL-00078,REV-2026-000101,review,The USB-C Hub 7-in-1 was incredibly easy to set up. Had it running in under five minutes.,en,False,positive,THEME-000012,human_verified,expert_evaluator,1.0
+EVAL-00079,REV-2026-000053,review,Qualité exceptionnelle et livraison rapide. Je recommande vivement ce produit.,fr,False,positive,THEME-000012,human_verified,expert_evaluator,1.0
+EVAL-00080,REV-2026-001507,review,I was skeptical but the customer service team went above and beyond to help me. Very impressed.,en,False,positive,THEME-000002,human_verified,expert_evaluator,1.0
+EVAL-00081,REV-2026-001046,review,The website is functional but not particularly well designed. Acceptable for basic use.,en,False,neutral,THEME-000005,human_verified,expert_evaluator,1.0
+EVAL-00082,REV-2026-000427,review,The app is excellent. Intuitive interface and the Laptop Stand Pro features are easy to access.,en,False,positive,THEME-000005,human_verified,expert_evaluator,1.0
+EVAL-00083,REV-2026-000580,review,Stock levels are well managed. Never had trouble finding the Laptop Stand Pro when I needed it.,en,False,positive,THEME-000007,human_verified,expert_evaluator,1.0
+EVAL-00084,REV-2026-002258,review,I was hesitant about the price but the SmartHome Hub is absolutely worth every dollar.,en,False,positive,THEME-000003,human_verified,expert_evaluator,1.0
+EVAL-00085,REV-2026-002484,review,Adequate materials for the price. The USB-C Hub 7-in-1 is exactly what you would expect at this level.,en,False,neutral,THEME-000001,human_verified,expert_evaluator,1.0
+EVAL-00086,REV-2026-001951,review,Packaging is sturdy and well-designed. The Robot Vacuum V2 arrived in perfect condition.,en,False,positive,THEME-000011,human_verified,expert_evaluator,1.0
+EVAL-00087,REV-2026-000342,review,The most popular variant is always out of stock. They clearly cannot keep up with demand.,en,False,negative,THEME-000007,human_verified,expert_evaluator,1.0
+EVAL-00088,REV-2026-001058,review,Technical support was outstanding. They walked me through the setup step by step.,en,False,positive,THEME-000008,human_verified,expert_evaluator,1.0
+EVAL-00089,REV-2026-000630,review,The price seems a bit high for a Computing product but the quality justifies it somewhat.,en,False,neutral,THEME-000003,human_verified,expert_evaluator,1.0
+EVAL-00090,REV-2026-000384,review,Average technical assistance. Some agents are more helpful than others.,en,False,neutral,THEME-000008,human_verified,expert_evaluator,1.0
+EVAL-00091,REV-2026-000716,review,Extremely frustrating experience with support. They kept asking me to repeat the same information.,en,False,negative,THEME-000002,human_verified,expert_evaluator,1.0
+EVAL-00092,REV-2026-001099,review,Competitive pricing compared to similar Home Appliances products. Well worth the investment.,en,False,positive,THEME-000003,human_verified,expert_evaluator,1.0
+EVAL-00093,REV-2026-002162,review,Tech support was okay. Had to wait a while but they did eventually walk me through the fix.,en,False,neutral,THEME-000008,human_verified,expert_evaluator,1.0
+EVAL-00094,REV-2026-001014,review,Je déconseille fortement ce produit. Le USB-C Hub 7-in-1 est tombé en panne bien trop vite.,fr,False,negative,THEME-000002,human_verified,expert_evaluator,1.0
+EVAL-00095,REV-2026-000972,review,The USB-C Hub 7-in-1 is okay but missing several features that competitors offer as standard.,en,False,neutral,THEME-000014,human_verified,expert_evaluator,1.0
+EVAL-00096,REV-2026-000298,review,Packaging is functional. Does the job without being impressive.,en,False,neutral,THEME-000011,human_verified,expert_evaluator,1.0
+EVAL-00097,REV-2026-000397,review,Standard customer service. Nothing to complain about but nothing outstanding either.,en,False,neutral,THEME-000002,human_verified,expert_evaluator,1.0
+EVAL-00098,REV-2026-000378,review,I was hesitant about the price but the Webcam 4K Auto-Focus is absolutely worth every dollar.,en,False,positive,THEME-000003,human_verified,expert_evaluator,1.0
+EVAL-00099,REV-2026-000786,review,Very user-friendly platform. I appreciate how easy it is to find support for the Noise-Cancelling Headphones.,en,False,positive,THEME-000005,human_verified,expert_evaluator,1.0
+EVAL-00100,REV-2026-000848,review,Extremely frustrating experience with support. They kept asking me to repeat the same information.,en,False,negative,THEME-000002,human_verified,expert_evaluator,1.0
+EVAL-00101,REV-2026-000647,review,Terrible customer service. Waited days for a response and my Noise-Cancelling Headphones issue was never resolved.,en,False,negative,THEME-000002,human_verified,expert_evaluator,1.0
+EVAL-00102,REV-2026-002200,review,Completely incompetent technical support. My Robot Vacuum V2 is still broken after three calls.,en,False,negative,THEME-000008,human_verified,expert_evaluator,1.0
+EVAL-00103,REV-2026-000129,review,The support team has basic knowledge. They could not solve my advanced issue but did try.,en,False,neutral,THEME-000008,human_verified,expert_evaluator,1.0
+EVAL-00104,REV-2026-001769,review,Had to call technical support four times for the same issue. Still unresolved.,en,False,negative,THEME-000008,human_verified,expert_evaluator,1.0
+EVAL-00105,REV-2026-002250,review,Average technical assistance. Some agents are more helpful than others.,en,False,neutral,THEME-000008,human_verified,expert_evaluator,1.0
+EVAL-00106,REV-2026-001798,review,Failed to install after following instructions exactly. The setup process is broken.,en,False,negative,THEME-000012,human_verified,expert_evaluator,1.0
+EVAL-00107,REV-2026-000210,review,The tech support team has no idea how their own product works. Very frustrating.,en,False,negative,THEME-000008,human_verified,expert_evaluator,1.0
+EVAL-00108,REV-2026-001516,review,Fast and reliable shipping. My Smart Scale Wi-Fi arrived two days ahead of schedule.,en,False,positive,THEME-000004,human_verified,expert_evaluator,1.0
+EVAL-00109,REV-2026-001042,review,I was hesitant about the price but the SmartHome Hub is absolutely worth every dollar.,en,False,positive,THEME-000003,human_verified,expert_evaluator,1.0
+EVAL-00110,REV-2026-000025,review,Très déçu par la qualité du USB-C Hub 7-in-1. Il est tombé en panne après quelques semaines.,fr,False,negative,THEME-000005,human_verified,expert_evaluator,1.0
+EVAL-00111,REV-2026-001083,review,Tracking updates were inconsistent but the SmartHome Hub arrived on the estimated date.,en,False,neutral,THEME-000004,human_verified,expert_evaluator,1.0
+EVAL-00112,REV-2026-001064,review,Average value for the cost. You get what you pay for with the Noise-Cancelling Headphones.,en,False,neutral,THEME-000003,human_verified,expert_evaluator,1.0
+EVAL-00113,REV-2026-001895,review,"Delivery was amazing. It only took three weeks, two wrong addresses, and one phone call. Highly efficient.",en,True,negative,THEME-000004,human_verified,expert_evaluator,1.0
+EVAL-00114,REV-2026-000227,review,The Ergonomic Mouse feels solid enough but nothing remarkable about the construction.,en,False,neutral,THEME-000001,human_verified,expert_evaluator,1.0
+EVAL-00115,REV-2026-002279,review,Great product. Adding voice control would make the Smart LED Bulb Pack absolutely perfect.,en,False,positive,THEME-000014,human_verified,expert_evaluator,1.0
+EVAL-00116,REV-2026-000694,review,Technical support was outstanding. They walked me through the setup step by step.,en,False,positive,THEME-000008,human_verified,expert_evaluator,1.0
+EVAL-00117,REV-2026-000627,review,The refund policy is reasonable. Not the most generous but they did honor my return.,en,False,neutral,THEME-000006,human_verified,expert_evaluator,1.0
+EVAL-00118,REV-2026-000478,review,The Smartwatch Series 5 is priced reasonably for what it offers. Not a bargain but fair.,en,False,neutral,THEME-000003,human_verified,expert_evaluator,1.0
+EVAL-00119,REV-2026-001209,review,"Best technical support I have experienced. Patient, skilled, and thorough.",en,False,positive,THEME-000008,human_verified,expert_evaluator,1.0
+EVAL-00120,REV-2026-001303,review,The tech support team has no idea how their own product works. Very frustrating.,en,False,negative,THEME-000008,human_verified,expert_evaluator,1.0
+EVAL-00121,REV-2026-001149,review,Overpriced for what you get. The SmartHome Hub is not worth the asking price.,en,False,negative,THEME-000003,human_verified,expert_evaluator,1.0
+EVAL-00122,REV-2026-001272,review,Terrible website experience. Checkout process is broken and I had to try three times.,en,False,negative,THEME-000005,human_verified,expert_evaluator,1.0
+EVAL-00123,REV-2026-002306,review,Terrible new user experience. Assumed knowledge that a first-time user would not have.,en,False,negative,THEME-000015,human_verified,expert_evaluator,1.0
+EVAL-00124,REV-2026-001077,review,Decent getting-started experience but the depth could be improved significantly.,en,False,neutral,THEME-000015,human_verified,expert_evaluator,1.0
+EVAL-00125,REV-2026-000595,review,Standard returns experience. Nothing exceptional but it did get resolved.,en,False,neutral,THEME-000006,human_verified,expert_evaluator,1.0
+EVAL-00126,REV-2026-000660,review,Way too much plastic packaging for such a small product. Very environmentally unfriendly.,en,False,negative,THEME-000011,human_verified,expert_evaluator,1.0
+EVAL-00127,REV-2026-001244,review,No tracking updates for five days and then the Smart LED Bulb Pack showed up damaged.,en,False,negative,THEME-000004,human_verified,expert_evaluator,1.0
+EVAL-00128,REV-2026-001921,review,Updates were okay. I had to check the status myself a few times but eventually got notified.,en,False,neutral,THEME-000010,human_verified,expert_evaluator,1.0
+EVAL-00129,REV-2026-001975,review,Customer service was okay. My Mechanical Keyboard TKL issue was eventually resolved after a few follow-ups.,en,False,neutral,THEME-000002,human_verified,expert_evaluator,1.0
+EVAL-00130,REV-2026-001678,review,Completely incompetent technical support. My SmartHome Hub is still broken after three calls.,en,False,negative,THEME-000008,human_verified,expert_evaluator,1.0
+EVAL-00131,REV-2026-000293,review,Das Preis-Leistungs-Verhältnis ist absolut unzumutbar. Der SmartHome Hub ist viel zu teuer.,de,False,negative,THEME-000002,human_verified,expert_evaluator,1.0
+EVAL-00132,REV-2026-002416,review,Customer service was okay. My Robot Vacuum V2 issue was eventually resolved after a few follow-ups.,en,False,neutral,THEME-000002,human_verified,expert_evaluator,1.0
+EVAL-00133,REV-2026-000112,review,Excellent bang for your buck. The Smart LED Bulb Pack performs like a product that costs twice as much.,en,False,positive,THEME-000003,human_verified,expert_evaluator,1.0
+EVAL-00134,REV-2026-001737,review,Poor materials on the Robot Vacuum V2. The finish started peeling within days of purchase.,en,False,negative,THEME-000001,human_verified,expert_evaluator,1.0
+EVAL-00135,REV-2026-001211,review,Already satisfied with the Robot Vacuum V2 but multi-user support would make it exceptional.,en,False,positive,THEME-000014,human_verified,expert_evaluator,1.0
+EVAL-00136,REV-2026-001615,review,Support was average. Took a while but they did get back to me with a solution.,en,False,neutral,THEME-000002,human_verified,expert_evaluator,1.0
+EVAL-00137,REV-2026-000267,review,Support resolved my problem in minutes. Best customer service experience I have had.,en,False,positive,THEME-000002,human_verified,expert_evaluator,1.0
+EVAL-00138,REV-2026-000982,review,Terrible customer service. Waited days for a response and my Smart LED Bulb Pack issue was never resolved.,en,False,negative,THEME-000002,human_verified,expert_evaluator,1.0
+EVAL-00139,REV-2026-000361,review,The Portable Charger 20K is built exceptionally well. Solid materials and a great finish throughout.,en,False,positive,THEME-000001,human_verified,expert_evaluator,1.0
+EVAL-00140,REV-2026-001302,review,The Smart Scale Wi-Fi advertises features that do not actually work. Very misleading marketing.,en,False,negative,THEME-000014,human_verified,expert_evaluator,1.0
+EVAL-00141,REV-2026-002184,review,Product availability was okay. The Bluetooth Speaker Max was on backorder for a week but arrived.,en,False,neutral,THEME-000007,human_verified,expert_evaluator,1.0
+EVAL-00142,REV-2026-001554,review,"Oh wow, yet another product that works exactly as advertised. The Robot Vacuum V2 is absolutely fine I guess. Technically.",en,True,neutral,THEME-000007,human_verified,expert_evaluator,1.0
+EVAL-00143,REV-2026-000120,review,The delivery was seamless. Packaged well and arrived right on time.,en,False,positive,THEME-000004,human_verified,expert_evaluator,1.0
+EVAL-00144,REV-2026-002492,review,"Great communication. Even when there was a delay, they notified me immediately.",en,False,positive,THEME-000010,human_verified,expert_evaluator,1.0
+EVAL-00145,REV-2026-001359,review,Great user experience on the website. Smooth checkout and easy product comparison.,en,False,positive,THEME-000005,human_verified,expert_evaluator,1.0
+EVAL-00146,REV-2026-000291,review,Quick resolution of a billing discrepancy. The team corrected the error within 24 hours.,en,False,positive,THEME-000009,human_verified,expert_evaluator,1.0
+EVAL-00147,REV-2026-001028,review,The tech support team has no idea how their own product works. Very frustrating.,en,False,negative,THEME-000008,human_verified,expert_evaluator,1.0
+EVAL-00148,REV-2026-002094,review,Adequate shipping. The product arrived in acceptable condition within the expected window.,en,False,neutral,THEME-000004,human_verified,expert_evaluator,1.0
+EVAL-00149,REV-2026-001566,review,The support team has basic knowledge. They could not solve my advanced issue but did try.,en,False,neutral,THEME-000008,human_verified,expert_evaluator,1.0
+EVAL-00150,REV-2026-000833,review,Terrible first-time experience. The setup process is overly complicated for no reason.,en,False,negative,THEME-000012,human_verified,expert_evaluator,1.0
+EVAL-00151,REV-2026-001682,review,The billing system is broken. I have been trying to update my payment method for a week.,en,False,negative,THEME-000009,human_verified,expert_evaluator,1.0
+EVAL-00152,REV-2026-002346,review,Average returns experience. Had to fill out several forms but it worked out in the end.,en,False,neutral,THEME-000006,human_verified,expert_evaluator,1.0
+EVAL-00153,REV-2026-000936,review,My account was charged after I cancelled. It took three contacts to reverse the charge.,en,False,negative,THEME-000009,human_verified,expert_evaluator,1.0
+EVAL-00154,REV-2026-000958,review,The most popular variant is always out of stock. They clearly cannot keep up with demand.,en,False,negative,THEME-000007,human_verified,expert_evaluator,1.0
+EVAL-00155,REV-2026-000671,review,Poor value. The Smartwatch Series 5 underperforms relative to its price tag.,en,False,negative,THEME-000003,human_verified,expert_evaluator,1.0
+EVAL-00156,REV-2026-000775,review,Pricing feels about right. The Electric Toothbrush Elite is neither overpriced nor a great deal.,en,False,neutral,THEME-000003,human_verified,expert_evaluator,1.0
+EVAL-00157,REV-2026-002167,review,No tracking updates for five days and then the Portable Charger 20K showed up damaged.,en,False,negative,THEME-000004,human_verified,expert_evaluator,1.0
+EVAL-00158,REV-2026-000884,review,Do not buy if you want something that lasts. The Laptop Stand Pro fell apart within 6 weeks.,en,False,negative,THEME-000001,human_verified,expert_evaluator,1.0
+EVAL-00159,REV-2026-001714,review,"The Mini Projector Pocket performs flawlessly. Fast, reliable, and consistent every single time.",en,False,positive,THEME-000013,human_verified,expert_evaluator,1.0
+EVAL-00160,REV-2026-001614,review,Loved the regular status updates. Felt well informed throughout the entire process.,en,False,positive,THEME-000010,human_verified,expert_evaluator,1.0
+EVAL-00161,REV-2026-000769,review,Very disappointed with the build quality of the Wireless Earbuds Pro. It feels flimsy and cheap.,en,False,negative,THEME-000001,human_verified,expert_evaluator,1.0
+EVAL-00162,REV-2026-002007,review,"Five-star support. Quick response, friendly staff, and my issue was fixed on the first contact.",en,False,positive,THEME-000002,human_verified,expert_evaluator,1.0
+EVAL-00163,REV-2026-001459,review,Pricing is fair and the quality matches it. I feel good about my purchase of the Ergonomic Mouse.,en,False,positive,THEME-000003,human_verified,expert_evaluator,1.0
+EVAL-00164,REV-2026-000366,review,Package arrived crushed. It looks like no care was taken in shipping the Mini Projector Pocket.,en,False,negative,THEME-000004,human_verified,expert_evaluator,1.0
+EVAL-00165,REV-2026-000262,review,I paid a premium for the Smart Doorbell Camera and feel completely ripped off. Not value for money.,en,False,negative,THEME-000003,human_verified,expert_evaluator,1.0
+EVAL-00166,REV-2026-002337,review,Packaging is sturdy and well-designed. The Bluetooth Speaker Max arrived in perfect condition.,en,False,positive,THEME-000011,human_verified,expert_evaluator,1.0
+EVAL-00167,REV-2026-001435,review,Terrible construction. My Robot Vacuum V2 arrived with visible defects right out of the box.,en,False,negative,THEME-000001,human_verified,expert_evaluator,1.0
+EVAL-00168,REV-2026-001608,review,Technical support was acceptable. Eventually resolved my issue after a few back-and-forths.,en,False,neutral,THEME-000008,human_verified,expert_evaluator,1.0
+EVAL-00169,REV-2026-001353,review,Tracking was accurate and delivery was early. Great shipping experience overall.,en,False,positive,THEME-000004,human_verified,expert_evaluator,1.0
+EVAL-00170,REV-2026-000961,review,Decent value. Cheaper alternatives exist but the Electric Toothbrush Elite is probably worth the extra cost.,en,False,neutral,THEME-000003,human_verified,expert_evaluator,1.0
+EVAL-00171,REV-2026-002465,review,Return process was somewhat slow but they did come through with a full refund eventually.,en,False,neutral,THEME-000006,human_verified,expert_evaluator,1.0
+EVAL-00172,REV-2026-001535,review,The Portable Charger 20K is built exceptionally well. Solid materials and a great finish throughout.,en,False,positive,THEME-000001,human_verified,expert_evaluator,1.0
+EVAL-00173,REV-2026-000801,review,"Mixed experience with the website. Some pages are great, others feel clunky.",en,False,neutral,THEME-000005,human_verified,expert_evaluator,1.0
+EVAL-00174,REV-2026-000073,review,No tracking updates for five days and then the Wireless Earbuds Pro showed up damaged.,en,False,negative,THEME-000004,human_verified,expert_evaluator,1.0
+EVAL-00175,REV-2026-001743,review,Tracking updates were inconsistent but the Fitness Tracker Band arrived on the estimated date.,en,False,neutral,THEME-000004,human_verified,expert_evaluator,1.0
+EVAL-00176,REV-2026-001267,review,The box was crushed when it arrived. The packaging offers very little protection.,en,False,negative,THEME-000011,human_verified,expert_evaluator,1.0
+EVAL-00177,REV-2026-002239,review,Delivery was okay. Took about a week which is average for this type of order.,en,False,neutral,THEME-000004,human_verified,expert_evaluator,1.0
+EVAL-00178,REV-2026-002062,review,Proactive updates about my order and delivery. Very professional communication.,en,False,positive,THEME-000010,human_verified,expert_evaluator,1.0
+EVAL-00179,REV-2026-000405,review,"Mixed experience with the website. Some pages are great, others feel clunky.",en,False,neutral,THEME-000005,human_verified,expert_evaluator,1.0
+EVAL-00180,REV-2026-002477,review,Average returns experience. Had to fill out several forms but it worked out in the end.,en,False,neutral,THEME-000006,human_verified,expert_evaluator,1.0
+EVAL-00181,REV-2026-001084,review,Great value for money. The Smart Scale Wi-Fi delivers more than what I paid for.,en,False,positive,THEME-000003,human_verified,expert_evaluator,1.0
+EVAL-00182,REV-2026-002426,review,The Ergonomic Mouse performs adequately for everyday tasks but struggles with demanding uses.,en,False,neutral,THEME-000013,human_verified,expert_evaluator,1.0
+EVAL-00183,REV-2026-000015,review,The price seems a bit high for a Home Appliances product but the quality justifies it somewhat.,en,False,neutral,THEME-000003,human_verified,expert_evaluator,1.0
+EVAL-00184,REV-2026-001263,review,Average experience with account management. Nothing exceptional but no major complaints.,en,False,neutral,THEME-000009,human_verified,expert_evaluator,1.0
+EVAL-00185,REV-2026-000795,review,My account was charged after I cancelled. It took three contacts to reverse the charge.,en,False,negative,THEME-000009,human_verified,expert_evaluator,1.0
+EVAL-00186,REV-2026-001494,review,Poor materials on the Noise-Cancelling Headphones. The finish started peeling within days of purchase.,en,False,negative,THEME-000001,human_verified,expert_evaluator,1.0
+EVAL-00187,REV-2026-001806,review,Excellent account management tools. Easy to update payment methods and track spending.,en,False,positive,THEME-000009,human_verified,expert_evaluator,1.0
+EVAL-00188,REV-2026-001833,review,Standard customer service. Nothing to complain about but nothing outstanding either.,en,False,neutral,THEME-000002,human_verified,expert_evaluator,1.0
+EVAL-00189,REV-2026-000403,review,I have been trying to get help with my Electric Toothbrush Elite for two weeks with absolutely no resolution.,en,False,negative,THEME-000002,human_verified,expert_evaluator,1.0
+EVAL-00190,REV-2026-002424,review,Average returns experience. Had to fill out several forms but it worked out in the end.,en,False,neutral,THEME-000006,human_verified,expert_evaluator,1.0
+EVAL-00191,REV-2026-001918,review,My Smart Doorbell Camera arrived a week late with no communication about the delay. Very frustrating.,en,False,negative,THEME-000004,human_verified,expert_evaluator,1.0
+EVAL-00192,REV-2026-001277,review,Support was average. Took a while but they did get back to me with a solution.,en,False,neutral,THEME-000002,human_verified,expert_evaluator,1.0
+EVAL-00193,REV-2026-002256,review,Terrible first-time experience. The setup process is overly complicated for no reason.,en,False,negative,THEME-000012,human_verified,expert_evaluator,1.0
+EVAL-00194,REV-2026-001280,review,Installation is a nightmare. Spent three hours trying to set up the 4K Streaming Stick with no success.,en,False,negative,THEME-000012,human_verified,expert_evaluator,1.0
+EVAL-00195,REV-2026-001316,review,The Webcam 4K Auto-Focus is priced reasonably for what it offers. Not a bargain but fair.,en,False,neutral,THEME-000003,human_verified,expert_evaluator,1.0
+EVAL-00196,REV-2026-001000,review,The agent I spoke with was patient and knowledgeable. Solved my USB-C Hub 7-in-1 issue immediately.,en,False,positive,THEME-000002,human_verified,expert_evaluator,1.0
+EVAL-00197,REV-2026-002333,review,Terrible inventory management. I had to reorder three times before my Electric Toothbrush Elite shipped.,en,False,negative,THEME-000007,human_verified,expert_evaluator,1.0
+EVAL-00198,REV-2026-000638,review,Service was neither great nor terrible. Problem was resolved but it took longer than expected.,en,False,neutral,THEME-000002,human_verified,expert_evaluator,1.0
+EVAL-00199,REV-2026-001369,review,Way too expensive compared to competitors. I expected much more at this price.,en,False,negative,THEME-000003,human_verified,expert_evaluator,1.0
+EVAL-00200,REV-2026-001969,review,No response to my emails for over a week. The lack of communication is unprofessional.,en,False,negative,THEME-000010,human_verified,expert_evaluator,1.0
+EVAL-00201,REV-2026-000526,review,"Sure, the Mechanical Keyboard TKL arrived. Whether it actually works is a completely separate question.",en,True,positive,THEME-000003,human_verified,expert_evaluator,1.0
+EVAL-00202,REV-2026-001821,review,Very disappointed with the build quality of the USB-C Hub 7-in-1. It feels flimsy and cheap.,en,False,negative,THEME-000001,human_verified,expert_evaluator,1.0
+EVAL-00203,REV-2026-001269,review,The billing system works but could use improvement. Too many steps to update payment info.,en,False,neutral,THEME-000009,human_verified,expert_evaluator,1.0
+EVAL-00204,REV-2026-001313,review,Qualité exceptionnelle et livraison rapide. Je recommande vivement ce produit.,fr,False,positive,THEME-000001,human_verified,expert_evaluator,1.0
+EVAL-00205,REV-2026-000092,review,The box was crushed when it arrived. The packaging offers very little protection.,en,False,negative,THEME-000011,human_verified,expert_evaluator,1.0
+EVAL-00206,REV-2026-001602,review,The return process was okay. Took a couple of weeks but eventually got my refund.,en,False,neutral,THEME-000006,human_verified,expert_evaluator,1.0
+EVAL-00207,REV-2026-002115,review,I have been trying to get help with my Mini Projector Pocket for two weeks with absolutely no resolution.,en,False,negative,THEME-000002,human_verified,expert_evaluator,1.0
+EVAL-00208,REV-2026-001760,review,Customer service was okay. My Robot Vacuum V2 issue was eventually resolved after a few follow-ups.,en,False,neutral,THEME-000002,human_verified,expert_evaluator,1.0
+EVAL-00209,REV-2026-001204,review,The support team has basic knowledge. They could not solve my advanced issue but did try.,en,False,neutral,THEME-000008,human_verified,expert_evaluator,1.0
+EVAL-00210,REV-2026-000798,review,El producto llegó en tiempo y forma. Nada extraordinario pero sin quejas.,es,False,neutral,THEME-000003,human_verified,expert_evaluator,1.0
+EVAL-00211,REV-2026-000924,review,"The refund process is refreshingly simple, if you enjoy explaining yourself to five different agents.",en,True,positive,THEME-000003,human_verified,expert_evaluator,1.0
+EVAL-00212,REV-2026-001903,review,The Bluetooth Speaker Max broke after just 11 weeks. The quality is far below what was advertised.,en,False,negative,THEME-000001,human_verified,expert_evaluator,1.0
+EVAL-00213,REV-2026-000828,review,Terrible first-time experience. The setup process is overly complicated for no reason.,en,False,negative,THEME-000012,human_verified,expert_evaluator,1.0
+EVAL-00214,REV-2026-000213,review,"Average communication. Some emails were helpful, others were unnecessary.",en,False,neutral,THEME-000010,human_verified,expert_evaluator,1.0
+EVAL-00215,REV-2026-000022,review,Do not buy if you want something that lasts. The Noise-Cancelling Headphones fell apart within 5 weeks.,en,False,negative,THEME-000001,human_verified,expert_evaluator,1.0
+EVAL-00216,REV-2026-001785,review,Average technical assistance. Some agents are more helpful than others.,en,False,neutral,THEME-000008,human_verified,expert_evaluator,1.0
+EVAL-00217,REV-2026-000560,review,"The refund process is refreshingly simple, if you enjoy explaining yourself to five different agents.",en,True,positive,THEME-000007,human_verified,expert_evaluator,1.0
+EVAL-00218,REV-2026-002491,review,Standard customer service. Nothing to complain about but nothing outstanding either.,en,False,neutral,THEME-000002,human_verified,expert_evaluator,1.0
+EVAL-00219,REV-2026-001201,review,"Five-star support. Quick response, friendly staff, and my issue was fixed on the first contact.",en,False,positive,THEME-000002,human_verified,expert_evaluator,1.0
+EVAL-00220,REV-2026-001654,review,The return process was incredibly easy. I had my refund within days of sending back the Mechanical Keyboard TKL.,en,False,positive,THEME-000006,human_verified,expert_evaluator,1.0
+EVAL-00221,REV-2026-001782,review,Hassle-free returns. They accepted my return without any questions and processed the refund quickly.,en,False,positive,THEME-000006,human_verified,expert_evaluator,1.0
+EVAL-00222,REV-2026-001262,review,Support resolved my problem in minutes. Best customer service experience I have had.,en,False,positive,THEME-000002,human_verified,expert_evaluator,1.0
+EVAL-00223,REV-2026-001253,review,Schrecklicher Kundenservice. Niemand konnte mir helfen trotz mehrerer Versuche.,de,False,negative,THEME-000003,human_verified,expert_evaluator,1.0
+EVAL-00224,REV-2026-000645,review,The onboarding covers the essentials but could be more comprehensive.,en,False,neutral,THEME-000015,human_verified,expert_evaluator,1.0
+EVAL-00225,REV-2026-001656,review,The customer service was so helpful that I ended up solving the problem entirely by myself. Five stars for effort.,en,True,negative,THEME-000008,human_verified,expert_evaluator,1.0
+EVAL-00226,REV-2026-001504,review,Do not buy if you want something that lasts. The Smart Scale Wi-Fi fell apart within 8 weeks.,en,False,negative,THEME-000001,human_verified,expert_evaluator,1.0
+EVAL-00227,REV-2026-001333,review,Pésimo servicio al cliente. Nadie supo ayudarme a resolver mi problema.,es,False,negative,THEME-000006,human_verified,expert_evaluator,1.0
+EVAL-00228,REV-2026-001609,review,I was skeptical but the customer service team went above and beyond to help me. Very impressed.,en,False,positive,THEME-000002,human_verified,expert_evaluator,1.0
+EVAL-00229,REV-2026-002323,review,Performance has degraded significantly after a few months. Very disappointed.,en,False,negative,THEME-000013,human_verified,expert_evaluator,1.0
+EVAL-00230,REV-2026-000481,review,Standard shipping experience. No issues but nothing impressive about the delivery either.,en,False,neutral,THEME-000004,human_verified,expert_evaluator,1.0
+EVAL-00231,REV-2026-000250,review,Average installation experience. The guide is functional but assumes some technical knowledge.,en,False,neutral,THEME-000012,human_verified,expert_evaluator,1.0
+EVAL-00232,REV-2026-001395,review,Adequate materials for the price. The Webcam 4K Auto-Focus is exactly what you would expect at this level.,en,False,neutral,THEME-000001,human_verified,expert_evaluator,1.0
+EVAL-00233,REV-2026-002104,review,Would rate higher if the Portable Charger 20K had better customisation options.,en,False,neutral,THEME-000014,human_verified,expert_evaluator,1.0
+EVAL-00234,REV-2026-000156,review,The billing system works but could use improvement. Too many steps to update payment info.,en,False,neutral,THEME-000009,human_verified,expert_evaluator,1.0
+EVAL-00235,REV-2026-001885,review,Terrible website experience. Checkout process is broken and I had to try three times.,en,False,negative,THEME-000005,human_verified,expert_evaluator,1.0
+EVAL-00236,REV-2026-002069,review,Do not buy if you want something that lasts. The Laptop Stand Pro fell apart within 12 weeks.,en,False,negative,THEME-000001,human_verified,expert_evaluator,1.0
+EVAL-00237,REV-2026-002155,review,I was hesitant about the price but the Webcam 4K Auto-Focus is absolutely worth every dollar.,en,False,positive,THEME-000003,human_verified,expert_evaluator,1.0
+EVAL-00238,REV-2026-001855,review,Already satisfied with the Smart Scale Wi-Fi but multi-user support would make it exceptional.,en,False,positive,THEME-000014,human_verified,expert_evaluator,1.0
+EVAL-00239,REV-2026-002150,review,Five stars for quality. The Smart LED Bulb Pack far exceeded my expectations for a Smart Home product.,en,False,positive,THEME-000001,human_verified,expert_evaluator,1.0
+EVAL-00240,REV-2026-002339,review,Account management is okay. The dashboard could be more intuitive but it works.,en,False,neutral,THEME-000009,human_verified,expert_evaluator,1.0
+EVAL-00241,REV-2026-001747,review,Excellent technical assistance. The agent diagnosed the problem remotely and fixed it quickly.,en,False,positive,THEME-000008,human_verified,expert_evaluator,1.0
+EVAL-00242,REV-2026-000217,review,No tracking updates for five days and then the USB-C Hub 7-in-1 showed up damaged.,en,False,negative,THEME-000004,human_verified,expert_evaluator,1.0
+EVAL-00243,REV-2026-000445,review,Servicio al cliente sobresaliente. Resolvieron mi problema en menos de una hora.,es,False,positive,THEME-000001,human_verified,expert_evaluator,1.0
+EVAL-00244,REV-2026-002037,review,Excellent technical assistance. The agent diagnosed the problem remotely and fixed it quickly.,en,False,positive,THEME-000008,human_verified,expert_evaluator,1.0
+EVAL-00245,REV-2026-000863,review,The box was crushed when it arrived. The packaging offers very little protection.,en,False,negative,THEME-000011,human_verified,expert_evaluator,1.0
+EVAL-00246,REV-2026-000070,review,I was skeptical but the customer service team went above and beyond to help me. Very impressed.,en,False,positive,THEME-000002,human_verified,expert_evaluator,1.0
+EVAL-00247,REV-2026-001532,review,Standard shipping experience. No issues but nothing impressive about the delivery either.,en,False,neutral,THEME-000004,human_verified,expert_evaluator,1.0
+EVAL-00248,REV-2026-000159,review,Standard shipping experience. No issues but nothing impressive about the delivery either.,en,False,neutral,THEME-000004,human_verified,expert_evaluator,1.0
+EVAL-00249,REV-2026-001491,review,The app is excellent. Intuitive interface and the Robot Vacuum V2 features are easy to access.,en,False,positive,THEME-000005,human_verified,expert_evaluator,1.0
+EVAL-00250,REV-2026-001430,review,Muy decepcionante. El Mechanical Keyboard TKL se rompió después de pocos días de uso.,es,False,negative,THEME-000001,human_verified,expert_evaluator,1.0
+EVAL-00251,REV-2026-000413,review,They refused my return despite it being within the policy window. Absolutely unacceptable.,en,False,negative,THEME-000006,human_verified,expert_evaluator,1.0
+EVAL-00252,REV-2026-002403,review,Support resolved my problem in minutes. Best customer service experience I have had.,en,False,positive,THEME-000002,human_verified,expert_evaluator,1.0
+EVAL-00253,REV-2026-000870,review,Technical support was outstanding. They walked me through the setup step by step.,en,False,positive,THEME-000008,human_verified,expert_evaluator,1.0
+EVAL-00254,REV-2026-000003,review,"Mixed experience with availability. Some variants were in stock, others were not.",en,False,neutral,THEME-000007,human_verified,expert_evaluator,1.0
+EVAL-00255,REV-2026-000629,review,The customer service team was incredibly helpful when I had an issue with my Bluetooth Speaker Max.,en,False,positive,THEME-000002,human_verified,expert_evaluator,1.0
+EVAL-00256,REV-2026-001234,review,Had to call technical support four times for the same issue. Still unresolved.,en,False,negative,THEME-000008,human_verified,expert_evaluator,1.0
+EVAL-00257,REV-2026-000231,review,Package arrived crushed. It looks like no care was taken in shipping the Fitness Tracker Band.,en,False,negative,THEME-000004,human_verified,expert_evaluator,1.0
+EVAL-00258,REV-2026-001482,review,Impressed by the quality of the Air Purifier Slim. It feels premium and very well-constructed.,en,False,positive,THEME-000001,human_verified,expert_evaluator,1.0
+EVAL-00259,REV-2026-001677,review,Competitive pricing compared to similar Entertainment products. Well worth the investment.,en,False,positive,THEME-000003,human_verified,expert_evaluator,1.0
+EVAL-00260,REV-2026-000793,review,Le 4K Streaming Stick est vraiment excellent. Je suis très satisfait de mon achat.,fr,False,positive,THEME-000003,human_verified,expert_evaluator,1.0
+EVAL-00261,REV-2026-000643,review,Great unboxing experience. The packaging quality reflects the quality of the Bluetooth Speaker Max inside.,en,False,positive,THEME-000011,human_verified,expert_evaluator,1.0
+EVAL-00262,REV-2026-002473,review,The Noise-Cancelling Headphones is perfect — if by perfect you mean it works about half the time on a good day.,en,True,negative,THEME-000013,human_verified,expert_evaluator,1.0
+EVAL-00263,REV-2026-001708,review,Pricing is fair and the quality matches it. I feel good about my purchase of the Ergonomic Mouse.,en,False,positive,THEME-000003,human_verified,expert_evaluator,1.0
+EVAL-00264,REV-2026-000915,review,Way too much plastic packaging for such a small product. Very environmentally unfriendly.,en,False,negative,THEME-000011,human_verified,expert_evaluator,1.0
+EVAL-00265,REV-2026-000181,review,The Air Purifier Slim was in stock and shipped immediately. Great availability.,en,False,positive,THEME-000007,human_verified,expert_evaluator,1.0
+EVAL-00266,REV-2026-001718,review,The Webcam 4K Auto-Focus is built exceptionally well. Solid materials and a great finish throughout.,en,False,positive,THEME-000001,human_verified,expert_evaluator,1.0
+EVAL-00267,REV-2026-000235,review,The refund policy is fair and the process was smooth. Very happy with how my return was handled.,en,False,positive,THEME-000006,human_verified,expert_evaluator,1.0
+EVAL-00268,REV-2026-001592,review,Decent reliability. Has had a few hiccups but nothing major in the first 4 months.,en,False,neutral,THEME-000013,human_verified,expert_evaluator,1.0
+EVAL-00269,REV-2026-001242,review,Zero proactive communication. I was left completely in the dark about my order status.,en,False,negative,THEME-000010,human_verified,expert_evaluator,1.0
+EVAL-00270,REV-2026-000351,review,The tech support team has no idea how their own product works. Very frustrating.,en,False,negative,THEME-000008,human_verified,expert_evaluator,1.0
+EVAL-00271,REV-2026-001629,review,The agent I spoke with was patient and knowledgeable. Solved my 4K Streaming Stick issue immediately.,en,False,positive,THEME-000002,human_verified,expert_evaluator,1.0
+EVAL-00272,REV-2026-000273,review,Average value for the cost. You get what you pay for with the Smart LED Bulb Pack.,en,False,neutral,THEME-000003,human_verified,expert_evaluator,1.0
+EVAL-00273,REV-2026-000453,review,"Delivery was amazing. It only took three weeks, two wrong addresses, and one phone call. Highly efficient.",en,True,negative,THEME-000008,human_verified,expert_evaluator,1.0
+EVAL-00274,REV-2026-000975,review,Impressed by the shipping speed. Got my SmartHome Hub the next day in perfect condition.,en,False,positive,THEME-000004,human_verified,expert_evaluator,1.0
+EVAL-00275,REV-2026-001405,review,Decent reliability. Has had a few hiccups but nothing major in the first 7 months.,en,False,neutral,THEME-000013,human_verified,expert_evaluator,1.0
+EVAL-00276,REV-2026-001810,review,Mysterious charges on my account that nobody can explain. Very concerning.,en,False,negative,THEME-000009,human_verified,expert_evaluator,1.0
+EVAL-00277,REV-2026-001326,review,"Five-star support. Quick response, friendly staff, and my issue was fixed on the first contact.",en,False,positive,THEME-000002,human_verified,expert_evaluator,1.0
+EVAL-00278,REV-2026-001796,review,Technical support was acceptable. Eventually resolved my issue after a few back-and-forths.,en,False,neutral,THEME-000008,human_verified,expert_evaluator,1.0
+EVAL-00279,REV-2026-000400,review,Excellent bang for your buck. The Laptop Stand Pro performs like a product that costs twice as much.,en,False,positive,THEME-000003,human_verified,expert_evaluator,1.0
+EVAL-00280,REV-2026-000971,review,Outstanding durability. My Smart LED Bulb Pack has held up perfectly after 4 months of daily use.,en,False,positive,THEME-000001,human_verified,expert_evaluator,1.0
+EVAL-00281,REV-2026-001502,review,The billing system works but could use improvement. Too many steps to update payment info.,en,False,neutral,THEME-000009,human_verified,expert_evaluator,1.0
+EVAL-00282,REV-2026-002121,review,Customer service was okay. My Robot Vacuum V2 issue was eventually resolved after a few follow-ups.,en,False,neutral,THEME-000002,human_verified,expert_evaluator,1.0
+EVAL-00283,REV-2026-000105,review,"Best technical support I have experienced. Patient, skilled, and thorough.",en,False,positive,THEME-000008,human_verified,expert_evaluator,1.0
+EVAL-00284,REV-2026-000553,review,The USB-C Hub 7-in-1 has been out of stock for months. Very frustrated with the availability.,en,False,negative,THEME-000007,human_verified,expert_evaluator,1.0
+EVAL-00285,REV-2026-001740,review,Best in class performance for a Entertainment product. The 4K Streaming Stick is incredibly reliable.,en,False,positive,THEME-000013,human_verified,expert_evaluator,1.0
+EVAL-00286,REV-2026-001136,review,The delivery was seamless. Packaged well and arrived right on time.,en,False,positive,THEME-000004,human_verified,expert_evaluator,1.0
+EVAL-00287,REV-2026-001874,review,Terrible customer service. Waited days for a response and my 4K Streaming Stick issue was never resolved.,en,False,negative,THEME-000002,human_verified,expert_evaluator,1.0
+EVAL-00288,REV-2026-001457,review,Way too much plastic packaging for such a small product. Very environmentally unfriendly.,en,False,negative,THEME-000011,human_verified,expert_evaluator,1.0
+EVAL-00289,REV-2026-000981,review,They promised to follow up and never did. Complete failure in communication.,en,False,negative,THEME-000010,human_verified,expert_evaluator,1.0
+EVAL-00290,REV-2026-000508,review,Excellent communication throughout the process. I was kept informed at every step.,en,False,positive,THEME-000010,human_verified,expert_evaluator,1.0
+EVAL-00291,REV-2026-001703,review,"Mixed experience with the website. Some pages are great, others feel clunky.",en,False,neutral,THEME-000005,human_verified,expert_evaluator,1.0
+EVAL-00292,REV-2026-000840,review,Best in class performance for a Accessories product. The Laptop Stand Pro is incredibly reliable.,en,False,positive,THEME-000013,human_verified,expert_evaluator,1.0
+EVAL-00293,REV-2026-000223,review,The website is clean and easy to navigate. Found what I needed for my Robot Vacuum V2 quickly.,en,False,positive,THEME-000005,human_verified,expert_evaluator,1.0
+EVAL-00294,REV-2026-001685,review,Five stars for quality. The 4K Streaming Stick far exceeded my expectations for a Entertainment product.,en,False,positive,THEME-000001,human_verified,expert_evaluator,1.0
+EVAL-00295,REV-2026-001990,review,The Wireless Earbuds Pro is okay but missing several features that competitors offer as standard.,en,False,neutral,THEME-000014,human_verified,expert_evaluator,1.0
+EVAL-00296,REV-2026-000480,review,Standard customer service. Nothing to complain about but nothing outstanding either.,en,False,neutral,THEME-000002,human_verified,expert_evaluator,1.0
+EVAL-00297,REV-2026-000018,review,"Five-star support. Quick response, friendly staff, and my issue was fixed on the first contact.",en,False,positive,THEME-000002,human_verified,expert_evaluator,1.0
+EVAL-00298,REV-2026-000601,review,Technical support was acceptable. Eventually resolved my issue after a few back-and-forths.,en,False,neutral,THEME-000008,human_verified,expert_evaluator,1.0
+EVAL-00299,REV-2026-002290,review,The mobile app is fast and well-designed. Ordering my Fitness Tracker Band was a breeze.,en,False,positive,THEME-000005,human_verified,expert_evaluator,1.0
+EVAL-00300,REV-2026-000050,review,Failed to install after following instructions exactly. The setup process is broken.,en,False,negative,THEME-000012,human_verified,expert_evaluator,1.0

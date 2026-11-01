@@ -1,0 +1,6 @@
+survey_id,title,survey_type,product_id,channel_id,start_date,end_date,lifecycle_state
+SUR-2026-000001,Product Feedback Survey — Streamline Viral Bandwidth,Product Feedback,PROD-018,CHAN-003,2026-01-29,2026-04-01,closed
+SUR-2026-000002,CES Survey — Transform Real-Time Infrastructures,CES,PROD-020,CHAN-002,2026-04-15,2026-05-26,closed
+SUR-2026-000003,Post-Purchase Survey — Extend User-Centric Infrastructures,Post-Purchase,PROD-014,CHAN-004,2026-02-04,2026-04-18,closed
+SUR-2026-000004,Product Feedback Survey — Enable Innovative Partnerships,Product Feedback,PROD-014,CHAN-001,2026-02-18,2026-04-22,closed
+SUR-2026-000005,NPS Survey — Enable World-Class Communities,NPS,PROD-017,CHAN-006,2026-04-16,2026-06-24,closed

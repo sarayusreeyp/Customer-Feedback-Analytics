@@ -1,0 +1,6 @@
+subset,sample_count,sentiment_accuracy,sentiment_precision_macro,sentiment_recall_macro,sentiment_macro_f1,theme_precision_multilabel,theme_recall_multilabel,theme_f1_multilabel,theme_f1_micro
+all_human_reviewed,300,0.6533,0.7017,0.6551,0.6617,0.9111,0.354,0.4624,0.5028
+clear_records,289,0.6609,0.7258,0.6622,0.6725,0.9278,0.3677,0.4776,0.5183
+ambiguous_or_sarcastic,11,0.4545,0.1515,0.3333,0.2083,0.0667,0.0389,0.0489,0.1176
+english_language,288,0.6562,0.7013,0.6576,0.6649,0.9115,0.368,0.4772,0.516
+multilingual,12,0.5833,0.7619,0.6667,0.5926,0.0222,0.0667,0.0333,0.2105

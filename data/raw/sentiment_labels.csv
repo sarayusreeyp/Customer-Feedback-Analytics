@@ -1,0 +1,4 @@
+sentiment_id,sentiment_label,polarity,description
+SENT-01,positive,1,"Favorable user experience, praise or satisfaction"
+SENT-02,neutral,0,"Factual feedback, balanced experience or inquiries"
+SENT-03,negative,-1,"Critical feedback, bug reports, dissatisfaction or complaints"

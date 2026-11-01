@@ -1,0 +1,16 @@
+action_id,theme_id,title,priority,status,created_at,mention_count
+ACT-2026-000001,THEME-000001,Investigate and address product quality complaints,high,open,2026-11-01,1365
+ACT-2026-000002,THEME-000004,Audit delivery partners and reduce shipping delays,high,open,2026-11-01,1154
+ACT-2026-000003,THEME-000002,Improve customer service response time and resolution rate,high,open,2026-11-01,1343
+ACT-2026-000004,THEME-000005,Redesign website/app UX based on user pain points,high,open,2026-11-01,1055
+ACT-2026-000005,THEME-000008,Upskill technical support team on product knowledge,high,open,2026-11-01,950
+ACT-2026-000006,THEME-000003,Review pricing strategy and communicate value proposition,high,open,2026-11-01,1186
+ACT-2026-000007,THEME-000013,Investigate performance degradation reports,high,open,2026-11-01,815
+ACT-2026-000008,THEME-000011,Review and improve packaging standards,medium,open,2026-11-01,762
+ACT-2026-000009,THEME-000006,Simplify return and refund process,medium,open,2026-11-01,922
+ACT-2026-000010,THEME-000009,Fix billing system errors and improve invoice clarity,medium,open,2026-11-01,791
+ACT-2026-000011,THEME-000012,Rewrite installation guide and create video tutorials,medium,open,2026-11-01,750
+ACT-2026-000012,THEME-000015,Redesign onboarding experience for new users,medium,open,2026-11-01,575
+ACT-2026-000013,THEME-000007,Improve inventory forecasting to reduce stockouts,low,open,2026-11-01,936
+ACT-2026-000014,THEME-000010,Implement proactive order/status communication,low,open,2026-11-01,785
+ACT-2026-000015,THEME-000014,Compile feature request backlog and share roadmap,low,open,2026-11-01,714

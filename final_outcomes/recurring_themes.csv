@@ -1,0 +1,16 @@
+theme_id,theme_name,review_count,response_count,message_count,total_count,percentage_share
+THEME-000001,Product Quality,488,480,397,1365,9.68
+THEME-000002,Customer Service,496,472,375,1343,9.52
+THEME-000003,Pricing & Value,420,438,328,1186,8.41
+THEME-000004,Delivery & Shipping,404,422,328,1154,8.18
+THEME-000005,Website & App UX,362,374,319,1055,7.48
+THEME-000008,Technical Support,328,352,270,950,6.74
+THEME-000007,Product Availability,315,344,277,936,6.64
+THEME-000006,Return & Refund Policy,345,301,276,922,6.54
+THEME-000013,Performance & Reliability,311,301,203,815,5.78
+THEME-000009,Account & Billing,276,280,235,791,5.61
+THEME-000010,Communication & Updates,276,281,228,785,5.57
+THEME-000011,Packaging,258,270,234,762,5.4
+THEME-000012,Installation & Setup,269,269,212,750,5.32
+THEME-000014,Feature Requests,264,243,207,714,5.06
+THEME-000015,Onboarding Experience,197,200,178,575,4.08

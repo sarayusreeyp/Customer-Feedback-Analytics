@@ -1,0 +1,192 @@
+{
+  "generated_at": "2026-11-01T16:42:05.075942",
+  "seed": 99999,
+  "scale": "starter",
+  "files": {
+    "raw_customers": {
+      "rows": 500,
+      "sha256": "9fcfbbd3cbe6a3b9",
+      "relative_path": "data/raw/customers.csv"
+    },
+    "raw_products": {
+      "rows": 20,
+      "sha256": "9c7fc90a879f374a",
+      "relative_path": "data/raw/products.csv"
+    },
+    "raw_channels": {
+      "rows": 6,
+      "sha256": "a9027dfd326836af",
+      "relative_path": "data/raw/channels.csv"
+    },
+    "raw_themes": {
+      "rows": 15,
+      "sha256": "66395621f2cb9c4d",
+      "relative_path": "data/raw/themes.csv"
+    },
+    "raw_sentiment_labels": {
+      "rows": 3,
+      "sha256": "80d1269d90d36e14",
+      "relative_path": "data/raw/sentiment_labels.csv"
+    },
+    "raw_surveys": {
+      "rows": 5,
+      "sha256": "2c257831837513b5",
+      "relative_path": "data/raw/surveys.csv"
+    },
+    "raw_reviews": {
+      "rows": 3000,
+      "sha256": "d6749660159da49b",
+      "relative_path": "data/raw/reviews.csv"
+    },
+    "raw_survey_responses": {
+      "rows": 3000,
+      "sha256": "0bd61bc56e10fbf6",
+      "relative_path": "data/raw/survey_responses.csv"
+    },
+    "raw_support_tickets": {
+      "rows": 200,
+      "sha256": "08f51eaf5409f632",
+      "relative_path": "data/raw/support_tickets.csv"
+    },
+    "raw_support_messages": {
+      "rows": 2500,
+      "sha256": "92192c0a0a136658",
+      "relative_path": "data/raw/support_messages.csv"
+    },
+    "raw_review_themes": {
+      "rows": 5009,
+      "sha256": "1711af1a251fbd1f",
+      "relative_path": "data/raw/review_themes.csv"
+    },
+    "raw_response_themes": {
+      "rows": 5027,
+      "sha256": "951d5d7f206f78b9",
+      "relative_path": "data/raw/response_themes.csv"
+    },
+    "raw_message_themes": {
+      "rows": 4067,
+      "sha256": "41eef02d3e4e20d9",
+      "relative_path": "data/raw/message_themes.csv"
+    },
+    "raw_action_items": {
+      "rows": 15,
+      "sha256": "1450d413b9d44f90",
+      "relative_path": "data/raw/action_items.csv"
+    },
+    "val_customers": {
+      "rows": 500,
+      "sha256": "9fcfbbd3cbe6a3b9",
+      "relative_path": "data/validated/customers.csv"
+    },
+    "val_products": {
+      "rows": 20,
+      "sha256": "9c7fc90a879f374a",
+      "relative_path": "data/validated/products.csv"
+    },
+    "val_channels": {
+      "rows": 6,
+      "sha256": "a9027dfd326836af",
+      "relative_path": "data/validated/channels.csv"
+    },
+    "val_themes": {
+      "rows": 15,
+      "sha256": "66395621f2cb9c4d",
+      "relative_path": "data/validated/themes.csv"
+    },
+    "val_sentiment_labels": {
+      "rows": 3,
+      "sha256": "80d1269d90d36e14",
+      "relative_path": "data/validated/sentiment_labels.csv"
+    },
+    "val_surveys": {
+      "rows": 5,
+      "sha256": "2c257831837513b5",
+      "relative_path": "data/validated/surveys.csv"
+    },
+    "val_reviews": {
+      "rows": 2500,
+      "sha256": "49c9d3c64993a5d0",
+      "relative_path": "data/validated/reviews.csv"
+    },
+    "val_survey_responses": {
+      "rows": 2500,
+      "sha256": "f5925aa426766c20",
+      "relative_path": "data/validated/survey_responses.csv"
+    },
+    "val_support_tickets": {
+      "rows": 200,
+      "sha256": "08f51eaf5409f632",
+      "relative_path": "data/validated/support_tickets.csv"
+    },
+    "val_support_messages": {
+      "rows": 2000,
+      "sha256": "a86392ddfb42cec0",
+      "relative_path": "data/validated/support_messages.csv"
+    },
+    "val_review_themes": {
+      "rows": 5009,
+      "sha256": "1711af1a251fbd1f",
+      "relative_path": "data/validated/review_themes.csv"
+    },
+    "val_response_themes": {
+      "rows": 5027,
+      "sha256": "951d5d7f206f78b9",
+      "relative_path": "data/validated/response_themes.csv"
+    },
+    "val_message_themes": {
+      "rows": 4067,
+      "sha256": "41eef02d3e4e20d9",
+      "relative_path": "data/validated/message_themes.csv"
+    },
+    "val_action_items": {
+      "rows": 15,
+      "sha256": "1450d413b9d44f90",
+      "relative_path": "data/validated/action_items.csv"
+    },
+    "excluded_reviews": {
+      "rows": 500,
+      "sha256": "ceb3331394b9d419",
+      "relative_path": "data/excluded_anomalies/excluded_reviews.csv"
+    },
+    "excluded_responses": {
+      "rows": 500,
+      "sha256": "9b2f42594f04823e",
+      "relative_path": "data/excluded_anomalies/excluded_responses.csv"
+    },
+    "excluded_messages": {
+      "rows": 500,
+      "sha256": "5f883c9c23bee0ee",
+      "relative_path": "data/excluded_anomalies/excluded_messages.csv"
+    },
+    "excluded_all": {
+      "rows": 1500,
+      "sha256": "5fba3705c2c77bb4",
+      "relative_path": "data/excluded_anomalies/all_excluded_anomalies.csv"
+    },
+    "gt_reviews_anomalies": {
+      "rows": 500,
+      "sha256": "37b379237c0598e1",
+      "relative_path": "data/ground_truth/reviews_anomalies.csv"
+    },
+    "gt_responses_anomalies": {
+      "rows": 500,
+      "sha256": "2b0b6cf5e4990279",
+      "relative_path": "data/ground_truth/responses_anomalies.csv"
+    },
+    "gt_messages_anomalies": {
+      "rows": 500,
+      "sha256": "ec643f456aa22e70",
+      "relative_path": "data/ground_truth/messages_anomalies.csv"
+    },
+    "ground_truth": {
+      "rows": 1500,
+      "sha256": "d0df5de053ae4efd",
+      "relative_path": "data/ground_truth/ground_truth.csv"
+    },
+    "human_reviewed_eval": {
+      "rows": 300,
+      "sha256": "2cd0b9f7b79fb49c",
+      "relative_path": "data/evaluation/human_reviewed_eval.csv"
+    }
+  }
+}

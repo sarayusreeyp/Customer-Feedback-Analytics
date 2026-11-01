@@ -1,0 +1,16 @@
+# Core data
+faker==37.1.0
+numpy>=1.26,<3
+pandas>=2.2,<3
+pyyaml>=6.0
+
+# Database
+sqlalchemy>=2.0,<3
+
+# NLP / ML
+transformers>=4.40
+torch>=2.2                  # CPU build is fine; pip installs the right variant automatically
+scikit-learn>=1.4
+
+# Dev / testing
+pytest>=8.0
